@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/underneath-the-soft-moon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Underneath The Soft Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-soft-moon/) |
+| **Get License** | [Secure Licensing Rights for Underneath The Soft Moon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-soft-moon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire burning in your eyes tonight,
+> Drawing me closer in this faded amber light.
+> I want to hold you where the shadows softly sway,
+> And love you till the midnight melts away.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f0c761fa5221b0a4bf49b741989e752c0f1399279a9dc9cd82baa90b2d2a1acd` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

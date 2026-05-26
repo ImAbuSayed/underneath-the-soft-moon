@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Underneath The Soft Moon
+
+This log tracks the cryptographic history and versioning for the song **Underneath The Soft Moon** (underneath-the-soft-moon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T17:05:17.467214 | `v1` | `f0c761fa5221b0a4bf49b741989e752c0f1399279a9dc9cd82baa90b2d2a1acd` | `f30c9eaa0ed8fb6c3689b14faefeb892cdbe596a7878259a13aa164d36d310fe` | `2026-05-26_underneath-the-soft-moon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
